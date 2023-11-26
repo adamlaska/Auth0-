@@ -16,7 +16,7 @@
     "yarn": "^1.4.0"
   },
   "devDependencies": {
-    "commander": "^2.8.1",
+    "commander": "^2.20.3",
     "husky": "^0.13.3",
     "imagemin": "^4.0.0",
     "imagemin-optipng": "^4.3.0",
